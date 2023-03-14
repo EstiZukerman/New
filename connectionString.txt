@@ -1,5 +1,0 @@
-https://www.youtube.com/watch?v=1VIfXx1znDY
-https://www.youtube.com/watch?v=80HKuMTXnYg
-https://ironsoftware.com/csharp/barcode/blog/using-ironbarcode/how-to-generate-qr-code-in-csharp-windows-application/
-https://ironsoftware.com/csharp/barcode/tutorials/csharp-qr-code-generator/
-mongodb+srv://estiZukerman:<password>@finalproject.ildtd7i.mongodb.net/test
